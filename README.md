@@ -13,6 +13,8 @@
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white"> 
   </div>
 
+<br/>
+
 ### 🛠️ Tech Stacks
 
 #### Skills
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
+<br/>
 
 ### ✨ Experience
 
@@ -49,5 +52,8 @@
   🔗 <a href="https://github.com/uniS2/StudyWith_mjs">JavaScript 스터디</a>  
   🔗 <a href="https://github.com/uniS2/StudyWith_react-deep-dive">React 스터디<a/>
 </div>
+
+<br/>
+<br/>
 
 [![uniS2's GitHub](https://github-readme-stats.vercel.app/api?username=uniS2&theme=transparent&show_icons=true&custom_title=🤓uniS2's　Github　Activities&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniS2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

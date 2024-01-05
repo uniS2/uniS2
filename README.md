@@ -62,4 +62,4 @@ const uniS2 = Universe + Soi;
 <br/>
 <br/>
 
-[![uniS2's GitHub](https://github-readme-stats.vercel.app/api?username=uniS2&theme=transparent&show_icons=true&custom_title=🤓uniS2's 　 Github 　 Activities&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniS2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![uniS2's GitHub](https://github-readme-stats.vercel.app/api?username=uniS2&theme=transparent&show_icons=true&custom_title=🤓uniS2's　Github　Activities&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniS2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

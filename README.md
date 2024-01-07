@@ -48,15 +48,15 @@ const uniS2 = Universe + Soi;
 #### Education
 
 <div style="flex">
-  🔗<a href="https://unis2.notion.site/S2_-6-7-842916db45324eb4b0f41e0a0c5aaff7?pvs=4"><img src="https://img.shields.io/badge/TECK!T FrontEnd School-black?style=for-the-badge&logo=LionAir&logoColor=white"></a>
-  🔗<a href="https://unis2.notion.site/FEPS-React-30f8a6978b634fdba58e83b7b43ce182?pvs=4"><img src="https://img.shields.io/badge/TECK!T FrontEnd Plus School-black?style=for-the-badge&logo=LionAir&logoColor=white"></a>
+  🔗<a href="https://unis2.notion.site/S2_-6-7-842916db45324eb4b0f41e0a0c5aaff7?pvs=4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TECK!T FrontEnd School-black?style=for-the-badge&logo=LionAir&logoColor=white"></a>
+  🔗<a href="https://unis2.notion.site/FEPS-React-30f8a6978b634fdba58e83b7b43ce182?pvs=4" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TECK!T FrontEnd Plus School-black?style=for-the-badge&logo=LionAir&logoColor=white"></a>
 </div>
 
 #### 스터디
 
 <div style="flex">
-  🔗 <a href="https://github.com/uniS2/StudyWith_mjs">JavaScript 스터디</a>  
-  🔗 <a href="https://github.com/uniS2/StudyWith_react-deep-dive">React 스터디<a/>
+  🔗 <a href="https://github.com/uniS2/StudyWith_mjs" target="_blank" rel="noopener">JavaScript 스터디</a>  
+  🔗 <a href="https://github.com/uniS2/StudyWith_react-deep-dive" target="_blank" rel="noopener">React 스터디<a/>
 </div>
 
 <br/>

@@ -21,7 +21,9 @@ const uniS2 = Universe + Soi;  // my github username
 
 <br />
 
-### 🌟 Tech Stacks
+### 🛠️ Tech Stacks
+
+#### 🌟 Skills
 
 <div style="flex">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>

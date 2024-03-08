@@ -6,17 +6,17 @@ const uniS2 = Universe + Soi;  // my github username
 
 ### 🤓 UniS2
 
-- 👩🏻‍💻 매일 [코딩테스트](https://github.com/uniS2/CodingTest) 문제를 풀이합니다.
-- 🗂️ 현재 [JUNGLE 프로젝트](https://github.com/twelive/JUNGLE) 리팩토링, [WonT 프로젝트](https://github.com/FRONTENDSCHOOL6/WonT) 마이그레이션, [i-write-you 프로젝트](https://github.com/likelion-plus/i-write-you) 기능 구현 중입니다.
+- 👩🏻‍💻 주 4회 이상 [코딩테스트](https://github.com/uniS2/CodingTest) 문제를 풀이합니다.
+- 🗂️ 현재 [WonT 프로젝트](https://github.com/FRONTENDSCHOOL6/WonT) 마이그레이션, [i-write-you 프로젝트](https://github.com/likelion-plus/i-write-you) 기능 구현 중입니다.
 - 🔥 최근 디버깅 | 마이그레이션 | 코드 리뷰에 관심을 가지고 학습 중입니다.
 - **Current Studying** 🚀
 
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/👩‍🎤 Emotion-DB7093?style=for-the-badge&logo=Emotion&logoColor=white"> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 
 
-### 🛠️ Tech Stack
-#### 🌟 **Skills**
-- ![Tech Blog Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/🐻Zustand-000?style=flat-square&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/CreateReactApp-09D3AC?style=flat-square&logo=CreateReactApp&logoColor=white)
+### 🌟 Tech Stack
+#### 🛠️ **Skills**
+- ![Tech Blog Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/🐻Zustand-000?style=flat-square&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)
 <br /> ![Tech Blog Badge](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/PocketBase-B8DBE4?style=flat-square-square&logo=PocketBase&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tech Blog Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 
 #### 🛰️ **Tools**

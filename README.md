@@ -8,8 +8,6 @@ const uniS2 = Universal Soi;  // my github username
 
 - 🤓 사용자가 이용하기 쉬운 공간을 제공하는 개발자 입니다.
 - 🔥 디버깅 | 코드 리뷰에 관심을 가지고 학습 중입니다.
-- 👩🏻‍💻 주 4회 이상 [코딩테스트](https://github.com/uniS2/CodingTest)를 공부하고 있습니다.
-- 🗂️ 현재, [WonT 프로젝트](https://github.com/Next-WonT/WonT), [i-write-you 프로젝트](https://github.com/likelion-plus/i-write-you)를 깃마스터로 진행하며 기능 개선 중 있습니다.
 - 🚀 **Recent Studying**
 
    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
